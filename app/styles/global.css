@@ -1,0 +1,23 @@
+/*
+* Global Stylesheet
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: BrandFont, Arial, sans-serif;
+	overflow-x: hidden;
+}
+
+li {
+	list-style: none;
+}
+
+#app {
+	background: #fff;
+	margin: 10px;
+}
+
+a {
+	color: #cd040b;
+}
